@@ -13,7 +13,7 @@
     "url": "http://qbraid.com"
   },
   "dependencies": {
-    "superagent": "0.9.0",
+    "superagent": "5.2.1",
     "btoa": "*"
   },
 
